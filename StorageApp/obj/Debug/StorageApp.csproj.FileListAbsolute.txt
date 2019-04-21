@@ -1,0 +1,16 @@
+C:\Users\Vlad\source\repos\StorageApp\StorageApp\bin\Debug\StorageApp.exe.config
+C:\Users\Vlad\source\repos\StorageApp\StorageApp\bin\Debug\StorageApp.exe
+C:\Users\Vlad\source\repos\StorageApp\StorageApp\bin\Debug\StorageApp.pdb
+C:\Users\Vlad\source\repos\StorageApp\StorageApp\bin\Debug\EntityFramework.dll
+C:\Users\Vlad\source\repos\StorageApp\StorageApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vlad\source\repos\StorageApp\StorageApp\bin\Debug\EntityFramework.xml
+C:\Users\Vlad\source\repos\StorageApp\StorageApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vlad\source\repos\StorageApp\StorageApp\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Vlad\source\repos\StorageApp\StorageApp\obj\Debug\StorageApp.csprojAssemblyReference.cache
+C:\Users\Vlad\source\repos\StorageApp\StorageApp\obj\Debug\StorageApp.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\source\repos\StorageApp\StorageApp\obj\Debug\StorageApp.csproj.CopyComplete
+C:\Users\Vlad\source\repos\StorageApp\StorageApp\obj\Debug\StorageApp.exe
+C:\Users\Vlad\source\repos\StorageApp\StorageApp\obj\Debug\StorageApp.pdb
+C:\Users\Vlad\source\repos\StorageApp\StorageApp\obj\Debug\StorageApp.Migrations.Initial.resources
+C:\Users\Vlad\source\repos\StorageApp\StorageApp\obj\Debug\StorageApp.csproj.GenerateResource.cache
+C:\Users\Vlad\source\repos\StorageApp\StorageApp\obj\Debug\StorageApp.Migrations.Fix.resources
